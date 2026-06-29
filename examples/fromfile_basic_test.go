@@ -4,8 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	command "github.com/gloo-foo/cmd-tac"
 	"github.com/gloo-foo/testable"
+
+	command "github.com/gloo-foo/cmd-tac"
 )
 
 // This example demonstrates reading from a file instead of inline input.

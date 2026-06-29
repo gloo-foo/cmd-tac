@@ -4,8 +4,9 @@ import (
 	"slices"
 	"testing"
 
-	tac "github.com/gloo-foo/cmd-tac/alias"
 	"github.com/gloo-foo/testable"
+
+	tac "github.com/gloo-foo/cmd-tac/alias"
 )
 
 // The alias package re-exports the constructor and the separator flag under

@@ -3,8 +3,9 @@ package command_test
 import (
 	"testing"
 
-	command "github.com/gloo-foo/cmd-tac"
 	"github.com/gloo-foo/testable"
+
+	command "github.com/gloo-foo/cmd-tac"
 )
 
 func TestTac_MultipleLines(t *testing.T) {

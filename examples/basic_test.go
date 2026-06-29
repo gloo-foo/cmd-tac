@@ -3,8 +3,9 @@ package tac_test
 import (
 	"fmt"
 
-	command "github.com/gloo-foo/cmd-tac"
 	"github.com/gloo-foo/testable"
+
+	command "github.com/gloo-foo/cmd-tac"
 )
 
 func ExampleTac_basic() {
